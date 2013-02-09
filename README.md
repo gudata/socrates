@@ -1,0 +1,4 @@
+socrates
+========
+
+Ruby Application Skeleton
