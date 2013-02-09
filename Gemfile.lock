@@ -1,0 +1,47 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    abstract (1.0.0)
+    activemodel (3.2.8)
+      activesupport (= 3.2.8)
+      builder (~> 3.0.0)
+    activerecord (3.2.8)
+      activemodel (= 3.2.8)
+      activesupport (= 3.2.8)
+      arel (~> 3.0.2)
+      tzinfo (~> 0.3.29)
+    activesupport (3.2.8)
+      i18n (~> 0.6)
+      multi_json (~> 1.0)
+    arel (3.0.2)
+    awesome_nested_set (2.1.5)
+      activerecord (>= 3.0.0)
+    awesome_print (1.1.0)
+    builder (3.0.3)
+    choice (0.1.6)
+    fastercsv (1.5.5)
+    i18n (0.6.1)
+    multi_json (1.3.6)
+    mysql2 (0.3.11)
+    nokogiri (1.5.5)
+    progressbar (0.11.0)
+    require_all (1.2.1)
+    sqlite3 (1.3.6)
+    tzinfo (0.3.33)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  abstract
+  activerecord
+  activesupport
+  awesome_nested_set
+  awesome_print
+  choice
+  fastercsv
+  mysql2
+  nokogiri
+  progressbar
+  require_all
+  sqlite3

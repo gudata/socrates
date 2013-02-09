@@ -1,0 +1,17 @@
+development: &development
+  adapter: mysql2
+  encoding: utf8
+  database: socrates_development
+  pool: 5
+  host: localhost
+  username: root
+  password:
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  database: socrates_development
+  pool: 5
+  host: localhost
+  username: root
+  password:
