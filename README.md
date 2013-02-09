@@ -12,13 +12,10 @@ Have a nice time
 How to install
 ==============
 
-Install ruby language
-Then install install rubygems and do
+Install ruby.
+Then install rubygems and do
 
   # gem install bundler
-
-Enter this folder and do
-
   # bundle install
 
 How to create your development database (if you want to use mysql)
